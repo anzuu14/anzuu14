@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Anju
 
-<!--
-**anzuu14/anzuu14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Enthusiast | Builder | Cloud & Security**
 
-Here are some ideas to get you started:
+I turn ideas into real projects. I believe the best way to learn is by building—so I'm constantly creating, experimenting, and sharing my work here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Work With
+
+- 💻 Programming
+- ☁️ Cloud Computing (AWS)
+- 🔒 Cybersecurity
+- 🎨 Interactive & Creative Projects
+
+---
+
+## 📌 Why GitHub?
+
+It's my space to:
+- Experiment with new ideas
+- Learn from mistakes
+- Grow consistently—one commit at a time
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaboration, learning new tech, and taking on challenges.
+*Thanks for stopping by!*
