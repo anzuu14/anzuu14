@@ -23,7 +23,9 @@ It's my space to:
 - Grow consistently—one commit at a time
 
 ---
+## 🎬 Intro Video
 
+Watch my intro video here: [Click to watch](https://drive.google.com/file/d/1f158tHIVJ1H8cBEvBZ5U8B2uvXS3a0Ug/view?usp=sharing)
 ## 🤝 Let's Connect
 
 I'm always open to collaboration, learning new tech, and taking on challenges.
